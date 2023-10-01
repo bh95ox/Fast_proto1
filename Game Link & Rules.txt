@@ -1,5 +1,5 @@
 GitHub Link:
-
+https://github.com/bh95ox/Fast_proto1
 
 Game Rules
 Follow complete All the goals for the door to open and dont get killed or touch the Lava or you will die.
